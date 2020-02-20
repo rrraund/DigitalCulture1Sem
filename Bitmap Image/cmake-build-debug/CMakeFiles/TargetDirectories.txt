@@ -1,0 +1,3 @@
+D:/Bitmap Image/cmake-build-debug/CMakeFiles/untitled2.dir
+D:/Bitmap Image/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Bitmap Image/cmake-build-debug/CMakeFiles/rebuild_cache.dir
